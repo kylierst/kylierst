@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![kylierst's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylierst&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![kylierst's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kylierst&exclude_repo=&hide=&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
