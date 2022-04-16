@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Kyle John Mark D. Cabangon
+### Hi there 👋
 ![](https://camo.githubusercontent.com/93fa66ff28d3fc4b3d433f20146cc60bc87fe85a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a4261644c556d355a7a706353333465545651417a35672e676966)
 
 I'm a BS Biology Major but I love computers so much that I code on my free time.
