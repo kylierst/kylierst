@@ -1,4 +1,4 @@
-![](https://c.tenor.com/ckUX9IFHBlYAAAAC/nyna-cat.gif)
+![](https://i.pinimg.com/originals/d9/57/b2/d957b2069956b9e23844766ce0c57004.gif)
 
 I'm a BS Biology Major but I love computers so much that I code on my free time.
 
