@@ -12,8 +12,6 @@ I'm a BS Biology Major but I love computers so much that I code on my free time.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kylierst&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kylierst)  
-
 ![GitHub metrics](https://metrics.lecoq.io/kylierst)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kylierst)  
